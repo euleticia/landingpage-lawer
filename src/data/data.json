@@ -1,0 +1,77 @@
+{
+    "Header": {
+
+        "title": "Advogada Criminalista",
+        "paragraph": "Defendendo Seus Direitos: Especialista em Direito Criminal com foco em Violência Doméstica e Atendimento Emergencial em Delegacias."
+
+    },
+    "About": {
+        "paragraph": "Dra. Zineide Barreto de Matos,  OAB/SP 487.245. Sou graduada em Direito pela Universidade São Judas Tadeu, pós-graduada em Direito Digital pela EBRADI-SP. Atualmente, sou especialista em Direito Criminal com foco em Violência Doméstica e Atendimento Emergencial em Delegacias. Membro ativo da Comissão da Mulher Advogada da OAB – Penha/SP, e com uma formação inicial em Ciências Econômicas pela PUC-SP, ofereço uma abordagem estratégica e humana para cada caso. Meu compromisso é garantir que você tenha a melhor defesa possível em momentos críticos.",
+        "Why": [
+            "Experiência e Conhecimento Profundo",
+            "Dedicação para o melhor resultado em Situações Criminais",
+            "Abordagem Estratégica e Inovadora",
+            "Transparência e Ética"
+        ],
+        "Why2": [
+            "Sua aliada legal em casos de Violência Doméstica e Emergências Criminais",
+            "Resultados Comprovados",
+            "Empatia e Compreensão",
+            "Atendimento humanizado"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-user",
+            "name": "Audiências de Custódia",
+            "text": "Garantindo que os direitos do acusado sejam respeitados e que a detenção seja revista de forma justa e transparente."
+        },
+        {
+            "icon": "fa fa-laptop",
+            "name": "Consultoria Jurídica Personalizada",
+            "text": "Oferecendo orientação legal personalizada para cada situação, garantindo que você esteja informado e preparado para enfrentar desafios jurídicos."
+        },
+        {
+            "icon": "fa fa-shield",
+            "name": "Defesa Criminal",
+            "text": "Garantindo uma defesa robusta e estratégica em processos criminais para proteger seus direitos."
+        },
+        {
+            "icon": "fa fa-home",
+            "name": "Consultoria em Violência Doméstica",
+            "text": "Oferecendo apoio integral e sensível em casos de violência doméstica, desde a orientação inicial até o acompanhamento completo do processo."
+        },
+        {
+            "icon": "fa fa-exclamation-triangle",
+            "name": "Atendimento Emergencial em Delegacias",
+            "text": "Disponível 24/7 para emergências, oferecendo suporte imediato em delegacias e garantindo que seus direitos sejam respeitados desde o primeiro momento."
+        },
+        {
+            "icon": "fa fa-paperclip",
+            "name": "Consultas e Pareceres",
+            "text": "Através da análise detalhada, apresentamos as soluções possíveis a cada caso."
+        }
+
+
+    ],
+    "Contact": {
+        "phone": "(11) 99478-0077",
+        "email": "zineidematos@hotmail.com",
+        "facebook": "fb.com"
+    },
+    "Features": [{
+            "icon": "fa fa-shield",
+            "title": "Defesa Criminal",
+            "text": "Garantindo uma defesa robusta e estratégica em processos criminais para proteger seus direitos."
+        },
+        {
+            "icon": "fa fa-gratipay",
+            "title": "Consultoria em Violência Doméstica",
+            "text": "Oferecendo apoio integral e sensível em casos de violência doméstica, desde a orientação inicial até o acompanhamento completo do processo."
+        },
+        {
+            "icon": "fa fa-exclamation-triangle",
+            "title": "Atendimento Emergencial em Delegacias",
+            "text": "Disponível 24/7 para emergências, oferecendo suporte imediato em delegacias e garantindo que seus direitos sejam respeitados desde o primeiro momento."
+        }
+    ]   
+}
